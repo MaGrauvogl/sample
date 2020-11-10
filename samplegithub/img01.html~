@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Images</title>
+</head>
+<body>
+	<figure>
+			<img src="/home/manfred/Bilder/Dolomiten.JPG" alt="Mit Motorrad am Timmelsjoch", width="500px">
+		<figcaption>Set image size</figcaption>
+	</figure>
+	<figure>
+			<img src="/home/manfred/Bilder/Dolomiten.JPG" alt="Mit Motorrad am Timmelsjoch" width="500px" height="100px">
+		<figcaption>Set image size</figcaption>
+	</figure>
+	<figure>
+			<img src="/home/manfred/Bilder/Dolomiten.JPG" alt="Mit Motorrad am Timmelsjoch", width="50%">
+		<figcaption>Set image size</figcaption>
+	</figure>
+</body>
+</html>
